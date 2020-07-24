@@ -7,7 +7,10 @@
 - 💻 Node, ReactJS, React Native, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
-[![Linkedin Badge](https://img.shields.io/badge/-Micaelli%20Medeiros-blue)](https://www.linkedin.com/in/micaellimedeiros)
+<a href="https://www.linkedin.com/in/micaellimedeiros">
+<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
+</a>
+
 <a href="mailto:m.amedeiros@hotmail.com">
-<img alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+<img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
