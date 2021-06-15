@@ -1,20 +1,15 @@
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
-
-<a href="https://www.linkedin.com/in/micaellimedeiros">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
-</a>
-
-<a href="mailto:m.amedeiros@hotmail.com">
-<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
-</a>
-
-<br/>
-
+<img align="right" src="" width="350" />
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
-- 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
-- 💻 Node, ReactJS, Typescript
-- ✨ Learning is continuous and there will always be a next level
+- 🚀 I am currently studying Systems Development Analysis at ([FIAP](https://www.fiap.com.br/))
+- 💻  Future Developer Full Stac
+ - 📍 From PR living in São Paulo
+- ✨ Learning is continuous and there will always be new challenges to be overcome.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markomaciell/)](https://www.linkedin.com/in/markomaciell/) ![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/maciel_marko/)
+
+
+
 
 
