@@ -14,7 +14,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
 - 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
-- 💻 Node, ReactJS, Typescript
+- 💻 Building cool stuffs with Node, ReactJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
 
