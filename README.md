@@ -6,5 +6,5 @@
 
 ## Hey! Welcome to my profile! 👋🥰
 
-🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/) | 💻 Building cool stuffs with Node, ReactJS, Typescript | ✨ Learning is continuous and there will always be a next level
+🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/) | 💻 Building cool stuffs with Node, ReactJS, Typescript | ✨ Learning is continuous and there will always be a next level!
 
