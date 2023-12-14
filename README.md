@@ -9,5 +9,4 @@
  I am a dedicated and innovative software engineer with a strong passion for creating meaningful digital experiences. My journey in the world of software development began over four years ago, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools.
 
 My technical proficiency includes JavaScript, TypeScript, React, Node.js, Styled Components, CSS, HTML, AdonisJS, Postgres, Figma, Git, and GitHub. With four years of experience in these technologies, I have mastered their intricacies to craft efficient and robust solutions. In addition, I am well-versed in Nest.js, Kafka, Prisma, Next.js, GraphQL, Rest API, Jest, React Testing, Context API, Redux, Docker, MySQL, Linear, Jira, and Bitbucket, with three years of hands-on practice.
- 
 </div>
