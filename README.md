@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc407b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Micaelli+Medeiros;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Micaelli+Medeiros;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 <div align="center" />
 
@@ -12,7 +12,7 @@
  
  I am a dedicated and innovative software engineer with a strong passion for creating meaningful digital experiences. My journey in the world of software development began over four years ago, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools.
 
-My technical proficiency includes JavaScript, TypeScript, React, Node.js, Styled Components, CSS, HTML, AdonisJS, Postgres, Figma, Git, and GitHub. With four years of experience in these technologies, I have mastered their intricacies to craft efficient and robust solutions. In addition, I am well-versed in Nest.js, Kafka, Prisma, Next.js, GraphQL, Rest API, Jest, React Testing, Context API, Redux, Docker, MySQL, Linear, Jira, and Bitbucket, with three years of hands-on practice.
+My technical proficiency includes JavaScript, TypeScript, React, Node.js, Styled Components, CSS, HTML, AdonisJS, Postgres, Figma, Git, GitHub, Nest.js, Kafka, Prisma, Next.js, GraphQL, Rest API, Jest, React Testing, Context API, Redux, Docker, MySQL, Linear, Jira, and Bitbucket.
 </div>
 
 ### Main skills:
