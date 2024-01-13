@@ -10,7 +10,7 @@
   <a href="https://instagram.com/micaellimedeiros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/micaellimedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- I am a dedicated and innovative software engineer with a strong passion for creating meaningful digital experiences. My journey in the world of software development began over four years ago, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools.
+I am a dedicated and innovative software engineer with a strong passion for creating meaningful digital experiences. My journey in the world of software development began over four years ago, and since then, I have continuously expanded my skill set and expertise across a range of technologies and tools.
 
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&labelColor=000000)
