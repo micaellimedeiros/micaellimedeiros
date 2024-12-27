@@ -18,7 +18,7 @@ I am a dedicated and innovative software engineer with a strong passion for crea
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 
-My technical proficiency includes JavaScript, TypeScript, React, Node.js, Styled Components, CSS, HTML, AdonisJS, Postgres, Figma, Git, GitHub, Nest.js, Kafka, Prisma, Next.js, GraphQL, Rest API, Jest, React Testing, Context API, Redux, Docker, MySQL, Linear, Jira, and Bitbucket.
+My technical proficiency includes JavaScript, TypeScript, React, Next.js, Node.js, Styled Components, CSS, HTML, AdonisJS, Postgres, Figma, Git, GitHub, Nest.js, Kafka, Prisma, GraphQL, Rest API, Jest, React Testing, Context API, Redux, Docker, MySQL, Linear, Jira, and Bitbucket.
 
 </div>
 
